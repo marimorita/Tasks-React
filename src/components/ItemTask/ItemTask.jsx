@@ -9,7 +9,7 @@ export const ItemTaks = ({title,description}) => {
         <p className='titleTask'>{title}:</p>  
         <p className='describeTask'>{description}</p>  
       </div>
-      <input type="checkbox" name="" id="" className='checkbox' />
+      <input type="checkbox" name="" id="checkboxID" className='checkbox' />
     </li>
     </>
   )

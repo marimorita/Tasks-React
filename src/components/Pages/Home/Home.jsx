@@ -41,10 +41,30 @@ export const Home = () => {
           <div className='tasks'>
             <Tasks>
                <ItemTaks title='Hola' description='mamahuevo' />
+               <ItemTaks title='Hola' description='mamahuevo' />
+               <ItemTaks title='Hola' description='mamahuevo' />
+               <ItemTaks title='Hola' description='mamahuevo' />
+               <ItemTaks title='Hola' description='mamahuevo' />
+               <ItemTaks title='Hola' description='mamahuevo' />
+               <ItemTaks title='Hola' description='mamahuevo' />
+               <ItemTaks title='Hola' description='mamahuevo' />
+               <ItemTaks title='Hola' description='mamahuevo' />
+               <ItemTaks title='Hola' description='mamahuevo' />
+               <ItemTaks title='Hola' description='mamahuevo' />
+               <ItemTaks title='Hola' description='mamahuevo' />
+               <ItemTaks title='Hola' description='mamahuevo' />
+               <ItemTaks title='Hola' description='mamahuevo' />
+               <ItemTaks title='Hola' description='mamahuevo' />
+               <ItemTaks title='Hola' description='mamahuevo' />
             </Tasks>
            </div>
         </section>
       </Main>
+      <Footer>
+        <div className='footer'>
+          <h1>「 ✦ 𝕸𝖆𝖗𝖎 𝕸𝖔𝖗𝖎𝖙𝖆 ✦ 」</h1>
+        </div>
+      </Footer>
     </>
   )
 }
