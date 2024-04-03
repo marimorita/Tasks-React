@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const ItemTaks = ({title,description}) => {
+export const ItemTask = ({title,description}) => {
   return (
     <>
     <li>
