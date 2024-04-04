@@ -6,6 +6,6 @@ export const TasksProvider  = ({children}) =>{ //El children va a utilizar los v
     const [tasks, setTasks] = useState ([]); //Esto son los estados de la función 
     return(
         <tasksContext.Provider value = {{tasks, setTasks}}>{children}
-        </tasksContext.Provider>
+        </tasksContext.Provider> 
     )
 } 
