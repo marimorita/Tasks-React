@@ -87,7 +87,7 @@ export const Home = () => {
         <section className='mainpt1'>    
           <div className="containerButtonInputs">
             <div className='Input'>
-              <p>titulo de la tarea:</p>
+              <p>Titulo de la tarea:</p>
               <input type="text" ref = {tittleInput} />
             </div>
             <div className=' Input'>
